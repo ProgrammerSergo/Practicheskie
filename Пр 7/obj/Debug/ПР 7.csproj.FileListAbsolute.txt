@@ -1,0 +1,45 @@
+C:\Users\студент\Desktop\ПР 7\bin\Debug\ПР 7.exe.config
+C:\Users\студент\Desktop\ПР 7\bin\Debug\ПР 7.exe
+C:\Users\студент\Desktop\ПР 7\bin\Debug\ПР 7.pdb
+C:\Users\студент\Desktop\ПР 7\obj\Debug\ПР 7.csprojAssemblyReference.cache
+C:\Users\студент\Desktop\ПР 7\obj\Debug\ПР_7.Form1.resources
+C:\Users\студент\Desktop\ПР 7\obj\Debug\ПР_7.Properties.Resources.resources
+C:\Users\студент\Desktop\ПР 7\obj\Debug\ПР 7.csproj.GenerateResource.cache
+C:\Users\студент\Desktop\ПР 7\obj\Debug\ПР 7.csproj.CoreCompileInputs.cache
+C:\Users\студент\Desktop\ПР 7\obj\Debug\ПР 7.exe
+C:\Users\студент\Desktop\ПР 7\obj\Debug\ПР 7.pdb
+C:\Users\79065\Desktop\ПР 7\bin\Debug\ПР 7.exe.config
+C:\Users\79065\Desktop\ПР 7\bin\Debug\ПР 7.exe
+C:\Users\79065\Desktop\ПР 7\bin\Debug\ПР 7.pdb
+C:\Users\79065\Desktop\ПР 7\obj\Debug\ПР 7.csproj.AssemblyReference.cache
+C:\Users\79065\Desktop\ПР 7\obj\Debug\ПР 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\79065\Desktop\ПР 7\obj\Debug\ПР_7.Form1.resources
+C:\Users\79065\Desktop\ПР 7\obj\Debug\ПР_7.Properties.Resources.resources
+C:\Users\79065\Desktop\ПР 7\obj\Debug\ПР 7.csproj.GenerateResource.cache
+C:\Users\79065\Desktop\ПР 7\obj\Debug\ПР 7.csproj.CoreCompileInputs.cache
+C:\Users\79065\Desktop\ПР 7\obj\Debug\ПР 7.exe
+C:\Users\79065\Desktop\ПР 7\obj\Debug\ПР 7.pdb
+C:\Users\79065\Desktop\ПР 7\obj\Debug\ПР_7.Form2.resources
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Практические\ПР 7\bin\Debug\ПР 7.exe.config
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Практические\ПР 7\bin\Debug\ПР 7.exe
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Практические\ПР 7\bin\Debug\ПР 7.pdb
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Практические\ПР 7\obj\Debug\ПР 7.csprojAssemblyReference.cache
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Практические\ПР 7\obj\Debug\ПР_7.Form1.resources
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Практические\ПР 7\obj\Debug\ПР_7.Form2.resources
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Практические\ПР 7\obj\Debug\ПР_7.Properties.Resources.resources
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Практические\ПР 7\obj\Debug\ПР 7.csproj.GenerateResource.cache
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Практические\ПР 7\obj\Debug\ПР 7.csproj.CoreCompileInputs.cache
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Практические\ПР 7\obj\Debug\ПР 7.exe
+G:\Общая для записи студентам\205 гр\Осипов Петряшов Алиев\Практические\ПР 7\obj\Debug\ПР 7.pdb
+C:\Users\Сергей\Desktop\Пр 7\bin\Debug\ПР 7.exe.config
+C:\Users\Сергей\Desktop\Пр 7\bin\Debug\ПР 7.exe
+C:\Users\Сергей\Desktop\Пр 7\bin\Debug\ПР 7.pdb
+C:\Users\Сергей\Desktop\Пр 7\obj\Debug\ПР 7.csproj.AssemblyReference.cache
+C:\Users\Сергей\Desktop\Пр 7\obj\Debug\ПР 7.csproj.SuggestedBindingRedirects.cache
+C:\Users\Сергей\Desktop\Пр 7\obj\Debug\ПР_7.Form1.resources
+C:\Users\Сергей\Desktop\Пр 7\obj\Debug\ПР_7.Form2.resources
+C:\Users\Сергей\Desktop\Пр 7\obj\Debug\ПР_7.Properties.Resources.resources
+C:\Users\Сергей\Desktop\Пр 7\obj\Debug\ПР 7.csproj.GenerateResource.cache
+C:\Users\Сергей\Desktop\Пр 7\obj\Debug\ПР 7.csproj.CoreCompileInputs.cache
+C:\Users\Сергей\Desktop\Пр 7\obj\Debug\ПР 7.exe
+C:\Users\Сергей\Desktop\Пр 7\obj\Debug\ПР 7.pdb
